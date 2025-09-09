@@ -1,0 +1,18 @@
+# Archivos de entorno
+.env
+.env.*.local
+
+# Volúmenes y datos generados
+*.pid
+*.seed
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
